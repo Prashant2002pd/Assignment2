@@ -17,7 +17,7 @@ This project builds a web application that guides users through a series of pers
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/personality-test.git
+   git clone https://github.com/Prashant2002pd/Assignment2.git
    cd personality-test
    ```
 
