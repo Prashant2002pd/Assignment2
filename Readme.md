@@ -1,4 +1,4 @@
-**Project: Personality Test with Dynamic Question Flow**
+# Project: Personality Test with Dynamic Question Flow
 
 This project builds a web application that guides users through a series of personality-related questions. The sequence of questions adapts based on the user's responses, offering a more personalized experience.
 
